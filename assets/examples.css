@@ -335,6 +335,7 @@ h2.page-heading {
 .three-cogs {
 position: relative;
 height: 101px;
+margin: -6px 15px 0 0;
 }
 .three-cogs > .fa-cog:nth-child(1) {
 animation-duration: 4s;
