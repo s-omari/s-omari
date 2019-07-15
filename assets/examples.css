@@ -288,9 +288,11 @@ min-width: 400px;
 .service-item h3 {
 	font-size: 23px;
 	margin: 10px 0 12px 0;
+	color: #ffffff;
 }
 .service-item p {
 font-size: 15px;
+color: #f4f4f4;
 }
 .service-item .icon {    
 	margin: 0 5px;
