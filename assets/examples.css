@@ -293,6 +293,7 @@ min-width: 400px;
 .service-item p {
 font-size: 15px;
 color: #f4f4f4;
+display: flow-root;
 }
 .service-item .icon {    
 	margin: 0 5px;
